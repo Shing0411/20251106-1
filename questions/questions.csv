@@ -1,0 +1,11 @@
+﻿欄位名稱,Question,OptionA,OptionB,OptionC,OptionD,CorrectAnswer
+1,p5.js 中，哪個函數只會在程式一開始執行一次？,draw(),setup(),move(),初始化(),B
+2,p5.js 中，哪個函數會不斷重複執行來產生動畫效果？,setup(),draw(),create(),render(),B
+3,哪個內建變數會自動儲存畫布的寬度？,height,width,size,canvasWidth,B
+4,要在畫布上繪製一個圓形，應該使用哪個 p5.js 函數？,rect(),triangle(),ellipse(),circle(),C
+5,如何在 p5.js 中設定繪圖形狀的填充顏色？,stroke(),fill(),noFill(),tint(),B
+6,哪個函數用於偵測滑鼠按鈕被按下的事件？,mouseClicked(),mousePressed(),mouseMoved(),keyReleased(),B
+7,"在 background(R, G, B) 中，顏色值的最大數字是多少？",100,255,10,360,B
+8,要在程式中取得一個隨機數字，應該使用哪個函數？,floor(),random(),dist(),ceil(),B
+9,如果氣泡飄出畫布頂部，會呼叫 this.reset()，這是為了將氣泡重新定位到哪裡？,畫布中央,畫布底部,畫布頂部,畫布左邊,B
+10,氣泡的爆破效果 (Particle) 是透過持續減少哪個屬性來讓粒子慢慢消失？,半徑 (r),"速度 (vx, vy)",生命值 (life),質量 (mass),C
